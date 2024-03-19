@@ -20,7 +20,7 @@ Before you begin, ensure you have met the following requirements :
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/wickstudio/discord-broadcast-bot
+   git clone [https://github.com/wickstudio/discord-broadcast-bot](https://github.com/Abu-al-Hun/discord-broadcast-bot.git)
    ```
 
 2. Navigate to the project folder :
@@ -71,10 +71,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-- Email : wick@wick-studio.com
-
-- Website : https://wickdev.xyz
-
-- Discord : https://discord.gg/wicks
-
-- Youtube : https://www.youtube.com/@wick_studio
+- Discord : [https://discord.gg/wicks](https://discord.gg/2xPP4E9fXa)https://discord.gg/2xPP4E9fXa
